@@ -7,8 +7,8 @@ Follow the steps below to run the project on your local machine:
 ### 1. Create a .env File
 At the root level of the project (inside the LocalHero folder), create a .env file and add the following code inside it:
 
-NEXTAUTH_URL=http://localhost:3000
-NEXTAUTH_SECRET=mytestApp
+NEXTAUTH_URL=http://localhost:3000:
+NEXTAUTH_SECRET=mytestApp:
 This configuration is necessary for the authentication system to work properly.
 
 ### 2. (Optional) Configure MongoDB URI
