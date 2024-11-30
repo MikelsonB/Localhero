@@ -34,14 +34,14 @@ Change the value of MONGO_URI to your MongoDB URI. By default, it connects to ou
 ### 3. Install Dependencies
 Open your terminal and navigate to the project directory. Run the following command to install all necessary dependencies:<br/>
 
-npm install<br/>
+__npm install__<br/>
 
 This will download all the required libraries and packages for both the frontend and backend.<br/>
 
 ### 4. Start the Development Server
 After installing the dependencies, run the following command to start the development server:<br/>
 
-npm run dev<br/>
+__npm run dev__<br/>
 
 This will start the application on your local machine, and you can access it at:
 
