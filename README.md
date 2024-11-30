@@ -1,5 +1,19 @@
 # LocalHero
 This repository contains the code for our LocalHero website, created for the SOEN-357 course.
+## Description of the Project:
+This platform connects local businesses and artisans with users, allowing them to discover and interact with each other. Users can browse business and artisan profiles, while business owners and artisans can create and manage their own profiles. The platform includes features like location-based search, filtering by category or skills, and profile management for both users and business owners/artisans.
+
+## Core Features of the Project:
+### For Users:
+
+Create an account/register: Users can sign up and log in securely.<br/>
+Browse profiles: Users can search for and explore local businesses and artisans.<br/>
+Advanced Search and Filters: Users can filter profiles based on categories, skills, or location.<br/>
+Contact businesses/artisans: Users can reach out to businesses or artisans directly.<br/>
+
+### For Business Owners and Artisans:
+Create an account/register: Business owners and artisans can sign up and log in securely. <br/>
+Create and manage profiles: Business owners and artisans can upload images, provide descriptions, and list services/products.<br/>
 
 ## How to Run the Project
 Follow the steps below to run the project on your local machine:<br/>
